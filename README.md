@@ -1,0 +1,2 @@
+# Machine-Learning-Techniques-for-Early-Prediction-of-Coronary-Artery-Bypass-Graft-Surgery
+The main idea of this work is to create a Coronary Artery Bypass Graft (CABG) detection model using  machine learning algorithms that can be helpful for doctors to decide whether a patient needs to do CABG  surgery or not. The data for this task has been collected from Mendeley Data[4]. Jupyter Notebook, an  open-source web application has been used to apply different machine learning algorithms to train our  model
